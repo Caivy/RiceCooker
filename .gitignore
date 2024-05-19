@@ -1,3 +1,5 @@
+*.worktree
+
 # Prerequisites
 *.d
 
